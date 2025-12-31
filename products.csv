@@ -1,0 +1,51 @@
+product_id,product_name,category,price,cost,stock_quantity
+PROD001,Wireless Headphones,Electronics,79.99,35.0,420
+PROD002,Smart Watch,Electronics,249.99,120.0,485
+PROD003,Laptop Stand,Electronics,39.99,18.0,69
+PROD004,USB-C Cable,Electronics,12.99,4.5,139
+PROD005,Bluetooth Speaker,Electronics,59.99,28.0,263
+PROD006,Phone Case,Electronics,19.99,7.0,478
+PROD007,Wireless Mouse,Electronics,29.99,12.0,140
+PROD008,Keyboard,Electronics,69.99,32.0,68
+PROD009,Webcam,Electronics,89.99,42.0,478
+PROD010,Portable Charger,Electronics,34.99,15.0,253
+PROD011,Coffee Maker,Home & Kitchen,89.99,45.0,453
+PROD012,Blender,Home & Kitchen,59.99,28.0,303
+PROD013,Air Fryer,Home & Kitchen,119.99,60.0,145
+PROD014,Knife Set,Home & Kitchen,79.99,35.0,433
+PROD015,Cookware Set,Home & Kitchen,149.99,75.0,496
+PROD016,Cutting Board,Home & Kitchen,24.99,10.0,198
+PROD017,Dish Rack,Home & Kitchen,29.99,12.0,498
+PROD018,Storage Containers,Home & Kitchen,34.99,15.0,69
+PROD019,Mixing Bowls,Home & Kitchen,39.99,18.0,54
+PROD020,Kitchen Scale,Home & Kitchen,22.99,9.0,202
+PROD021,T-Shirt,Clothing,24.99,8.0,340
+PROD022,Jeans,Clothing,59.99,22.0,358
+PROD023,Hoodie,Clothing,49.99,20.0,104
+PROD024,Sneakers,Clothing,89.99,38.0,221
+PROD025,Jacket,Clothing,129.99,58.0,195
+PROD026,Dress,Clothing,79.99,32.0,282
+PROD027,Shorts,Clothing,34.99,14.0,378
+PROD028,Sweater,Clothing,54.99,24.0,328
+PROD029,Socks Pack,Clothing,14.99,5.0,318
+PROD030,Baseball Cap,Clothing,19.99,7.0,302
+PROD031,Yoga Mat,Sports & Outdoors,29.99,12.0,118
+PROD032,Dumbbells Set,Sports & Outdoors,89.99,42.0,485
+PROD033,Water Bottle,Sports & Outdoors,19.99,7.0,308
+PROD034,Resistance Bands,Sports & Outdoors,24.99,10.0,289
+PROD035,Jump Rope,Sports & Outdoors,14.99,5.0,189
+PROD036,Gym Bag,Sports & Outdoors,44.99,20.0,148
+PROD037,Foam Roller,Sports & Outdoors,34.99,15.0,464
+PROD038,Exercise Ball,Sports & Outdoors,24.99,11.0,107
+PROD039,Camping Tent,Sports & Outdoors,199.99,95.0,219
+PROD040,Backpack,Sports & Outdoors,69.99,30.0,133
+PROD041,Notebook Set,Books & Stationery,14.99,5.0,424
+PROD042,Pen Set,Books & Stationery,12.99,4.0,284
+PROD043,Planner,Books & Stationery,24.99,10.0,381
+PROD044,Markers,Books & Stationery,9.99,3.5,181
+PROD045,Desk Organizer,Books & Stationery,19.99,8.0,417
+PROD046,Bookends,Books & Stationery,29.99,12.0,145
+PROD047,Highlighters,Books & Stationery,8.99,3.0,57
+PROD048,Sticky Notes,Books & Stationery,6.99,2.5,427
+PROD049,File Folders,Books & Stationery,11.99,4.5,222
+PROD050,Desk Lamp,Books & Stationery,39.99,18.0,454

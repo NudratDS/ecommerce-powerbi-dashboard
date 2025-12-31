@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,city,state,registration_date,customer_segment
+CUST0001,Christopher,Brown,christopher.brown1@email.com,New York,NY,2023-07-18,Regular
+CUST0002,Linda,Jones,linda.jones2@email.com,Detroit,MI,2022-07-29,VIP
+CUST0003,Lisa,Moore,lisa.moore3@email.com,Chicago,IL,2024-05-14,Regular
+CUST0004,James,Williams,james.williams4@email.com,San Antonio,TX,2023-04-22,VIP
+CUST0005,Karen,Smith,karen.smith5@email.com,Seattle,WA,2023-02-12,VIP
+CUST0006,Christopher,Moore,christopher.moore6@email.com,Columbus,OH,2023-03-28,Premium
+CUST0007,Charles,Rodriguez,charles.rodriguez7@email.com,New York,NY,2022-11-23,VIP
+CUST0008,Susan,Hernandez,susan.hernandez8@email.com,Dallas,TX,2022-11-15,Regular
+CUST0009,David,Brown,david.brown9@email.com,Chicago,IL,2024-02-18,Regular
+CUST0010,Elizabeth,Lopez,elizabeth.lopez10@email.com,Boston,MA,2023-06-26,Regular
+CUST0011,Lisa,Anderson,lisa.anderson11@email.com,Seattle,WA,2022-09-13,Premium
+CUST0012,John,Moore,john.moore12@email.com,San Jose,CA,2024-01-11,VIP
+CUST0013,Michael,Williams,michael.williams13@email.com,Los Angeles,CA,2023-04-12,Premium
+CUST0014,John,Davis,john.davis14@email.com,Houston,TX,2024-02-18,Premium
+CUST0015,Joseph,Lee,joseph.lee15@email.com,Jacksonville,FL,2022-11-30,Premium
+CUST0016,Elizabeth,Miller,elizabeth.miller16@email.com,Miami,FL,2023-07-01,VIP
+CUST0017,Nancy,Lee,nancy.lee17@email.com,Chicago,IL,2022-12-17,VIP
+CUST0018,Lisa,Davis,lisa.davis18@email.com,Philadelphia,PA,2024-08-04,Premium
+CUST0019,William,Lee,william.lee19@email.com,Atlanta,GA,2023-03-26,VIP
+CUST0020,David,Johnson,david.johnson20@email.com,San Diego,CA,2022-03-07,Premium
+CUST0021,Richard,Rodriguez,richard.rodriguez21@email.com,Chicago,IL,2023-03-09,VIP
+CUST0022,Daniel,Hernandez,daniel.hernandez22@email.com,San Antonio,TX,2024-10-19,Premium
+CUST0023,Christopher,Anderson,christopher.anderson23@email.com,Phoenix,AZ,2023-06-27,Regular
+CUST0024,Linda,Moore,linda.moore24@email.com,Seattle,WA,2023-06-23,VIP
+CUST0025,Charles,Wilson,charles.wilson25@email.com,Denver,CO,2024-03-28,Premium
+CUST0026,Linda,Jones,linda.jones26@email.com,Indianapolis,IN,2024-10-07,Regular
+CUST0027,Mary,Brown,mary.brown27@email.com,Phoenix,AZ,2022-11-24,VIP
+CUST0028,Susan,Martin,susan.martin28@email.com,Chicago,IL,2024-02-28,Premium
+CUST0029,Karen,Anderson,karen.anderson29@email.com,Indianapolis,IN,2023-05-30,VIP
+CUST0030,James,Thompson,james.thompson30@email.com,Detroit,MI,2022-08-23,VIP
+CUST0031,Sarah,Rodriguez,sarah.rodriguez31@email.com,Portland,OR,2023-11-28,Regular
+CUST0032,Barbara,Wilson,barbara.wilson32@email.com,Philadelphia,PA,2024-07-18,Regular
+CUST0033,Lisa,Rodriguez,lisa.rodriguez33@email.com,Indianapolis,IN,2023-01-01,VIP
+CUST0034,Patricia,Lee,patricia.lee34@email.com,San Jose,CA,2024-11-05,VIP
+CUST0035,Michael,Jones,michael.jones35@email.com,Jacksonville,FL,2022-11-27,VIP
+CUST0036,Thomas,Smith,thomas.smith36@email.com,Boston,MA,2023-10-26,Premium
+CUST0037,James,Brown,james.brown37@email.com,Jacksonville,FL,2023-09-22,Regular
+CUST0038,Mary,Davis,mary.davis38@email.com,Denver,CO,2022-06-11,Regular
+CUST0039,Lisa,Thomas,lisa.thomas39@email.com,Chicago,IL,2024-12-26,Regular
+CUST0040,Robert,Thompson,robert.thompson40@email.com,San Francisco,CA,2022-12-05,Premium
+CUST0041,Thomas,Martin,thomas.martin41@email.com,Columbus,OH,2023-03-10,VIP
+CUST0042,Lisa,Miller,lisa.miller42@email.com,Atlanta,GA,2023-10-01,Premium
+CUST0043,Nancy,Lee,nancy.lee43@email.com,Jacksonville,FL,2024-06-16,VIP
+CUST0044,Joseph,Brown,joseph.brown44@email.com,San Diego,CA,2023-04-06,Regular
+CUST0045,David,Smith,david.smith45@email.com,Denver,CO,2023-04-17,VIP
+CUST0046,Linda,Smith,linda.smith46@email.com,Chicago,IL,2022-05-01,Regular
+CUST0047,John,Johnson,john.johnson47@email.com,Austin,TX,2022-05-26,VIP
+CUST0048,Linda,Rodriguez,linda.rodriguez48@email.com,Miami,FL,2024-09-21,Regular
+CUST0049,Sarah,Jones,sarah.jones49@email.com,Detroit,MI,2024-08-26,Regular
+CUST0050,Jessica,Wilson,jessica.wilson50@email.com,San Antonio,TX,2022-07-13,Regular
+CUST0051,Nancy,Wilson,nancy.wilson51@email.com,Jacksonville,FL,2024-05-17,Premium
+CUST0052,Joseph,Johnson,joseph.johnson52@email.com,Miami,FL,2022-07-21,Regular
+CUST0053,Richard,Hernandez,richard.hernandez53@email.com,Houston,TX,2023-05-25,Regular
+CUST0054,Michael,Moore,michael.moore54@email.com,Charlotte,NC,2022-10-15,Premium
+CUST0055,Jennifer,Rodriguez,jennifer.rodriguez55@email.com,Charlotte,NC,2023-05-27,Regular
+CUST0056,Joseph,Moore,joseph.moore56@email.com,Houston,TX,2022-04-14,VIP
+CUST0057,Sarah,Smith,sarah.smith57@email.com,Chicago,IL,2023-04-30,Regular
+CUST0058,Susan,Thomas,susan.thomas58@email.com,San Francisco,CA,2023-03-14,Premium
+CUST0059,Mary,Garcia,mary.garcia59@email.com,Fort Worth,TX,2022-01-05,Premium
+CUST0060,William,Anderson,william.anderson60@email.com,San Jose,CA,2024-05-16,VIP
+CUST0061,Lisa,Moore,lisa.moore61@email.com,Miami,FL,2024-09-23,Regular
+CUST0062,Michael,Martinez,michael.martinez62@email.com,San Antonio,TX,2022-04-30,VIP
+CUST0063,Lisa,Moore,lisa.moore63@email.com,Los Angeles,CA,2023-10-05,Regular
+CUST0064,Mary,Jackson,mary.jackson64@email.com,San Francisco,CA,2024-10-26,VIP
+CUST0065,Jennifer,Johnson,jennifer.johnson65@email.com,Indianapolis,IN,2022-06-14,Regular
+CUST0066,John,Martin,john.martin66@email.com,Chicago,IL,2023-04-27,Premium
+CUST0067,Patricia,Jackson,patricia.jackson67@email.com,San Diego,CA,2022-03-23,VIP
+CUST0068,John,Wilson,john.wilson68@email.com,Miami,FL,2024-12-06,Premium
+CUST0069,William,Miller,william.miller69@email.com,Miami,FL,2023-10-06,Regular
+CUST0070,William,Gonzalez,william.gonzalez70@email.com,Phoenix,AZ,2023-09-07,Premium
+CUST0071,David,Williams,david.williams71@email.com,New York,NY,2024-07-27,VIP
+CUST0072,Charles,Brown,charles.brown72@email.com,Chicago,IL,2023-03-13,VIP
+CUST0073,William,Jones,william.jones73@email.com,Jacksonville,FL,2022-05-21,Regular
+CUST0074,Elizabeth,Martinez,elizabeth.martinez74@email.com,Philadelphia,PA,2024-06-16,VIP
+CUST0075,Daniel,Martinez,daniel.martinez75@email.com,Boston,MA,2024-12-19,Regular
+CUST0076,Nancy,Moore,nancy.moore76@email.com,San Jose,CA,2022-08-01,Regular
+CUST0077,William,Brown,william.brown77@email.com,Houston,TX,2022-11-15,Premium
+CUST0078,Barbara,Martin,barbara.martin78@email.com,San Antonio,TX,2023-12-04,Regular
+CUST0079,Nancy,Lee,nancy.lee79@email.com,Dallas,TX,2024-11-01,Premium
+CUST0080,William,Johnson,william.johnson80@email.com,Chicago,IL,2024-05-17,Premium
+CUST0081,Mary,Smith,mary.smith81@email.com,Austin,TX,2022-09-25,VIP
+CUST0082,William,Garcia,william.garcia82@email.com,Detroit,MI,2024-06-23,VIP
+CUST0083,Daniel,Wilson,daniel.wilson83@email.com,Seattle,WA,2022-01-20,Regular
+CUST0084,John,Jones,john.jones84@email.com,Seattle,WA,2022-03-15,Premium
+CUST0085,Charles,Moore,charles.moore85@email.com,Phoenix,AZ,2024-05-30,Regular
+CUST0086,Mary,Martinez,mary.martinez86@email.com,Jacksonville,FL,2022-03-23,Premium
+CUST0087,Michael,Thompson,michael.thompson87@email.com,San Diego,CA,2022-07-30,Premium
+CUST0088,Sarah,Wilson,sarah.wilson88@email.com,Boston,MA,2022-11-13,Regular
+CUST0089,Jennifer,Garcia,jennifer.garcia89@email.com,Columbus,OH,2022-02-20,Regular
+CUST0090,Lisa,Hernandez,lisa.hernandez90@email.com,Columbus,OH,2023-05-24,Premium
+CUST0091,Jennifer,Brown,jennifer.brown91@email.com,Fort Worth,TX,2022-03-21,Premium
+CUST0092,Linda,Miller,linda.miller92@email.com,Charlotte,NC,2023-12-18,Premium
+CUST0093,Linda,Davis,linda.davis93@email.com,New York,NY,2023-01-31,Premium
+CUST0094,David,Rodriguez,david.rodriguez94@email.com,Chicago,IL,2023-07-26,Premium
+CUST0095,Christopher,Taylor,christopher.taylor95@email.com,Fort Worth,TX,2023-11-10,Regular
+CUST0096,Patricia,Rodriguez,patricia.rodriguez96@email.com,Philadelphia,PA,2023-06-28,Regular
+CUST0097,Patricia,Martin,patricia.martin97@email.com,Columbus,OH,2023-12-09,VIP
+CUST0098,David,Wilson,david.wilson98@email.com,Boston,MA,2024-11-13,Regular
+CUST0099,Richard,Jackson,richard.jackson99@email.com,San Antonio,TX,2023-06-06,Regular
+CUST0100,Daniel,Wilson,daniel.wilson100@email.com,New York,NY,2024-11-30,VIP
+CUST0101,Nancy,Thompson,nancy.thompson101@email.com,San Antonio,TX,2024-01-16,Premium
+CUST0102,John,Thompson,john.thompson102@email.com,Austin,TX,2023-10-05,VIP
+CUST0103,Patricia,Martinez,patricia.martinez103@email.com,Indianapolis,IN,2023-09-26,VIP
+CUST0104,Susan,Hernandez,susan.hernandez104@email.com,Fort Worth,TX,2023-08-29,VIP
+CUST0105,Robert,Miller,robert.miller105@email.com,Columbus,OH,2024-02-16,VIP
+CUST0106,Lisa,Garcia,lisa.garcia106@email.com,Boston,MA,2023-09-09,Premium
+CUST0107,Sarah,Smith,sarah.smith107@email.com,San Jose,CA,2023-08-11,Regular
+CUST0108,Susan,Jackson,susan.jackson108@email.com,Boston,MA,2023-10-22,Premium
+CUST0109,Joseph,Anderson,joseph.anderson109@email.com,Miami,FL,2023-03-14,VIP
+CUST0110,Jessica,Garcia,jessica.garcia110@email.com,Miami,FL,2022-06-23,Premium
+CUST0111,Thomas,Thompson,thomas.thompson111@email.com,Portland,OR,2023-11-18,Regular
+CUST0112,Linda,Thompson,linda.thompson112@email.com,San Jose,CA,2023-04-06,Regular
+CUST0113,Robert,Smith,robert.smith113@email.com,Los Angeles,CA,2023-05-17,Premium
+CUST0114,Karen,Williams,karen.williams114@email.com,Charlotte,NC,2024-04-28,VIP
+CUST0115,Charles,Miller,charles.miller115@email.com,Atlanta,GA,2024-02-26,Premium
+CUST0116,Richard,Davis,richard.davis116@email.com,Phoenix,AZ,2022-01-12,Regular
+CUST0117,Susan,Davis,susan.davis117@email.com,Philadelphia,PA,2024-11-26,Premium
+CUST0118,Mary,Moore,mary.moore118@email.com,San Diego,CA,2022-09-06,Premium
+CUST0119,Robert,Anderson,robert.anderson119@email.com,Miami,FL,2024-12-23,VIP
+CUST0120,Karen,Hernandez,karen.hernandez120@email.com,Charlotte,NC,2024-10-30,Premium
+CUST0121,Sarah,Anderson,sarah.anderson121@email.com,Philadelphia,PA,2024-08-30,Premium
+CUST0122,William,Davis,william.davis122@email.com,Portland,OR,2023-07-22,VIP
+CUST0123,Jessica,Lee,jessica.lee123@email.com,San Diego,CA,2023-07-17,Premium
+CUST0124,John,Martinez,john.martinez124@email.com,San Diego,CA,2023-07-11,Premium
+CUST0125,David,Moore,david.moore125@email.com,Chicago,IL,2022-10-11,Regular
+CUST0126,Linda,Gonzalez,linda.gonzalez126@email.com,Atlanta,GA,2022-11-09,VIP
+CUST0127,Michael,Williams,michael.williams127@email.com,Columbus,OH,2024-04-14,Premium
+CUST0128,Sarah,Anderson,sarah.anderson128@email.com,Columbus,OH,2022-05-08,Regular
+CUST0129,Susan,Gonzalez,susan.gonzalez129@email.com,Denver,CO,2022-02-10,VIP
+CUST0130,Richard,Thomas,richard.thomas130@email.com,New York,NY,2023-12-22,Premium
+CUST0131,Richard,Wilson,richard.wilson131@email.com,Seattle,WA,2023-03-28,Premium
+CUST0132,Linda,Rodriguez,linda.rodriguez132@email.com,Columbus,OH,2024-09-21,Regular
+CUST0133,Richard,Hernandez,richard.hernandez133@email.com,Miami,FL,2024-04-08,VIP
+CUST0134,Jennifer,Anderson,jennifer.anderson134@email.com,Phoenix,AZ,2024-12-29,Regular
+CUST0135,Richard,Jackson,richard.jackson135@email.com,Denver,CO,2022-02-25,Regular
+CUST0136,Christopher,Wilson,christopher.wilson136@email.com,Phoenix,AZ,2024-08-03,Regular
+CUST0137,Mary,Rodriguez,mary.rodriguez137@email.com,Fort Worth,TX,2023-11-02,Regular
+CUST0138,Joseph,Hernandez,joseph.hernandez138@email.com,Austin,TX,2024-02-16,Premium
+CUST0139,Susan,Rodriguez,susan.rodriguez139@email.com,Chicago,IL,2024-08-21,Regular
+CUST0140,Lisa,Moore,lisa.moore140@email.com,Los Angeles,CA,2023-12-18,Regular
+CUST0141,Christopher,Williams,christopher.williams141@email.com,Portland,OR,2022-03-24,Regular
+CUST0142,Linda,Miller,linda.miller142@email.com,New York,NY,2022-11-09,Regular
+CUST0143,Robert,Thomas,robert.thomas143@email.com,Miami,FL,2022-08-23,VIP
+CUST0144,Michael,Anderson,michael.anderson144@email.com,Atlanta,GA,2023-06-09,Premium
+CUST0145,Jennifer,Martin,jennifer.martin145@email.com,Boston,MA,2022-08-23,Regular
+CUST0146,Barbara,Brown,barbara.brown146@email.com,Denver,CO,2022-02-22,Premium
+CUST0147,Charles,Thompson,charles.thompson147@email.com,Fort Worth,TX,2024-03-23,VIP
+CUST0148,Michael,Williams,michael.williams148@email.com,Denver,CO,2023-05-13,Regular
+CUST0149,Daniel,Martinez,daniel.martinez149@email.com,Miami,FL,2022-09-05,VIP
+CUST0150,Mary,Lopez,mary.lopez150@email.com,Seattle,WA,2024-05-27,VIP
+CUST0151,Elizabeth,Williams,elizabeth.williams151@email.com,Indianapolis,IN,2023-11-30,Regular
+CUST0152,Susan,Thomas,susan.thomas152@email.com,Houston,TX,2024-06-06,Premium
+CUST0153,Christopher,Anderson,christopher.anderson153@email.com,Atlanta,GA,2022-11-10,Premium
+CUST0154,Jennifer,Taylor,jennifer.taylor154@email.com,Portland,OR,2023-07-08,VIP
+CUST0155,Sarah,Thomas,sarah.thomas155@email.com,Charlotte,NC,2024-06-11,VIP
+CUST0156,Charles,Rodriguez,charles.rodriguez156@email.com,Austin,TX,2023-05-18,Regular
+CUST0157,William,Anderson,william.anderson157@email.com,San Diego,CA,2024-08-09,VIP
+CUST0158,Karen,Thompson,karen.thompson158@email.com,Fort Worth,TX,2023-11-20,Regular
+CUST0159,Jessica,Hernandez,jessica.hernandez159@email.com,Philadelphia,PA,2024-09-25,Regular
+CUST0160,Elizabeth,Rodriguez,elizabeth.rodriguez160@email.com,Austin,TX,2023-07-27,VIP
+CUST0161,Daniel,Rodriguez,daniel.rodriguez161@email.com,Seattle,WA,2022-01-21,VIP
+CUST0162,Michael,Williams,michael.williams162@email.com,San Diego,CA,2024-04-12,Premium
+CUST0163,Sarah,Davis,sarah.davis163@email.com,Atlanta,GA,2024-09-02,VIP
+CUST0164,Daniel,Thomas,daniel.thomas164@email.com,Charlotte,NC,2022-02-05,Regular
+CUST0165,Barbara,Davis,barbara.davis165@email.com,Fort Worth,TX,2023-05-14,Premium
+CUST0166,Nancy,Jackson,nancy.jackson166@email.com,Jacksonville,FL,2024-08-27,VIP
+CUST0167,Thomas,Lopez,thomas.lopez167@email.com,Columbus,OH,2023-11-09,Premium
+CUST0168,Daniel,Anderson,daniel.anderson168@email.com,Dallas,TX,2023-09-20,Premium
+CUST0169,Linda,Brown,linda.brown169@email.com,Detroit,MI,2023-01-30,Premium
+CUST0170,Patricia,Moore,patricia.moore170@email.com,Atlanta,GA,2023-01-15,Regular
+CUST0171,Michael,Thomas,michael.thomas171@email.com,Dallas,TX,2024-12-10,VIP
+CUST0172,Barbara,Brown,barbara.brown172@email.com,San Antonio,TX,2023-08-30,Regular
+CUST0173,Elizabeth,Garcia,elizabeth.garcia173@email.com,San Jose,CA,2022-01-29,VIP
+CUST0174,Sarah,Jones,sarah.jones174@email.com,Dallas,TX,2022-04-04,Regular
+CUST0175,Sarah,Martinez,sarah.martinez175@email.com,Atlanta,GA,2022-09-16,VIP
+CUST0176,Jessica,Brown,jessica.brown176@email.com,New York,NY,2023-08-06,Premium
+CUST0177,Jessica,Anderson,jessica.anderson177@email.com,Austin,TX,2023-01-13,Regular
+CUST0178,William,Thomas,william.thomas178@email.com,Houston,TX,2022-05-14,Premium
+CUST0179,Jessica,Williams,jessica.williams179@email.com,Denver,CO,2022-04-20,Regular
+CUST0180,Robert,Jackson,robert.jackson180@email.com,San Jose,CA,2022-06-24,Regular
+CUST0181,Patricia,Moore,patricia.moore181@email.com,Columbus,OH,2023-04-08,VIP
+CUST0182,Richard,Anderson,richard.anderson182@email.com,Charlotte,NC,2023-09-01,VIP
+CUST0183,Susan,Martinez,susan.martinez183@email.com,Denver,CO,2022-05-04,VIP
+CUST0184,Lisa,Brown,lisa.brown184@email.com,San Antonio,TX,2023-03-09,Premium
+CUST0185,Nancy,Williams,nancy.williams185@email.com,Philadelphia,PA,2023-05-07,Regular
+CUST0186,Sarah,Williams,sarah.williams186@email.com,Philadelphia,PA,2022-01-06,Premium
+CUST0187,Joseph,Martin,joseph.martin187@email.com,San Francisco,CA,2023-08-20,Regular
+CUST0188,Linda,Martinez,linda.martinez188@email.com,Atlanta,GA,2023-08-03,VIP
+CUST0189,Joseph,Williams,joseph.williams189@email.com,Miami,FL,2023-04-24,Premium
+CUST0190,Christopher,Jackson,christopher.jackson190@email.com,Miami,FL,2023-02-10,Premium
+CUST0191,Patricia,Moore,patricia.moore191@email.com,San Diego,CA,2022-11-02,Premium
+CUST0192,Robert,Williams,robert.williams192@email.com,Los Angeles,CA,2022-12-06,Premium
+CUST0193,Karen,Jackson,karen.jackson193@email.com,San Jose,CA,2024-06-18,Regular
+CUST0194,Joseph,Martinez,joseph.martinez194@email.com,Atlanta,GA,2024-04-04,Premium
+CUST0195,Thomas,Moore,thomas.moore195@email.com,San Francisco,CA,2024-06-15,Regular
+CUST0196,Karen,Johnson,karen.johnson196@email.com,Columbus,OH,2023-10-23,VIP
+CUST0197,William,Smith,william.smith197@email.com,Chicago,IL,2023-04-14,VIP
+CUST0198,Charles,Jackson,charles.jackson198@email.com,New York,NY,2023-07-06,VIP
+CUST0199,Mary,Garcia,mary.garcia199@email.com,San Francisco,CA,2024-11-28,VIP
+CUST0200,Joseph,Rodriguez,joseph.rodriguez200@email.com,Philadelphia,PA,2024-06-11,VIP
+CUST0201,Jessica,Williams,jessica.williams201@email.com,San Francisco,CA,2023-12-14,Premium
+CUST0202,David,Hernandez,david.hernandez202@email.com,Miami,FL,2022-08-03,Regular
+CUST0203,David,Wilson,david.wilson203@email.com,Atlanta,GA,2024-10-11,Premium
+CUST0204,Nancy,Gonzalez,nancy.gonzalez204@email.com,Seattle,WA,2022-03-17,Premium
+CUST0205,John,Hernandez,john.hernandez205@email.com,Dallas,TX,2023-10-25,Regular
+CUST0206,Richard,Taylor,richard.taylor206@email.com,New York,NY,2024-08-04,Premium
+CUST0207,Mary,Miller,mary.miller207@email.com,Indianapolis,IN,2024-01-11,VIP
+CUST0208,Jessica,Lee,jessica.lee208@email.com,Charlotte,NC,2022-04-16,Regular
+CUST0209,William,Moore,william.moore209@email.com,Phoenix,AZ,2023-08-13,Premium
+CUST0210,Daniel,Thomas,daniel.thomas210@email.com,Houston,TX,2022-03-01,VIP
+CUST0211,Karen,Davis,karen.davis211@email.com,Atlanta,GA,2022-11-21,Premium
+CUST0212,Sarah,Smith,sarah.smith212@email.com,Seattle,WA,2024-04-15,Regular
+CUST0213,Linda,Brown,linda.brown213@email.com,Charlotte,NC,2022-08-29,VIP
+CUST0214,Robert,Thomas,robert.thomas214@email.com,Atlanta,GA,2023-08-21,VIP
+CUST0215,Daniel,Rodriguez,daniel.rodriguez215@email.com,Columbus,OH,2024-09-15,Premium
+CUST0216,Linda,Anderson,linda.anderson216@email.com,Seattle,WA,2022-10-24,Premium
+CUST0217,Michael,Martin,michael.martin217@email.com,Indianapolis,IN,2022-10-07,Regular
+CUST0218,William,Wilson,william.wilson218@email.com,Austin,TX,2024-11-05,Premium
+CUST0219,James,Martinez,james.martinez219@email.com,Detroit,MI,2023-09-04,VIP
+CUST0220,Charles,Thompson,charles.thompson220@email.com,San Francisco,CA,2022-11-01,Premium
+CUST0221,Sarah,Thomas,sarah.thomas221@email.com,Jacksonville,FL,2023-11-12,VIP
+CUST0222,Sarah,Gonzalez,sarah.gonzalez222@email.com,Charlotte,NC,2023-10-22,Regular
+CUST0223,Daniel,Davis,daniel.davis223@email.com,Denver,CO,2024-02-24,Regular
+CUST0224,Susan,Johnson,susan.johnson224@email.com,Austin,TX,2024-08-26,VIP
+CUST0225,Richard,Gonzalez,richard.gonzalez225@email.com,Miami,FL,2022-11-08,Premium
+CUST0226,Mary,Jones,mary.jones226@email.com,Indianapolis,IN,2023-11-11,Regular
+CUST0227,Joseph,Brown,joseph.brown227@email.com,Indianapolis,IN,2024-07-24,Regular
+CUST0228,Lisa,Jones,lisa.jones228@email.com,Columbus,OH,2022-11-13,Regular
+CUST0229,Jessica,Rodriguez,jessica.rodriguez229@email.com,Austin,TX,2024-03-25,VIP
+CUST0230,John,Hernandez,john.hernandez230@email.com,Miami,FL,2024-12-28,Premium
+CUST0231,David,Lee,david.lee231@email.com,Atlanta,GA,2024-09-26,VIP
+CUST0232,Mary,Martin,mary.martin232@email.com,Chicago,IL,2023-04-26,VIP
+CUST0233,Nancy,Martinez,nancy.martinez233@email.com,San Diego,CA,2022-07-05,Premium
+CUST0234,Patricia,Lee,patricia.lee234@email.com,Atlanta,GA,2022-07-25,Premium
+CUST0235,Jennifer,Martinez,jennifer.martinez235@email.com,New York,NY,2022-04-05,Premium
+CUST0236,Mary,Martinez,mary.martinez236@email.com,Jacksonville,FL,2024-02-07,Premium
+CUST0237,Robert,Davis,robert.davis237@email.com,Indianapolis,IN,2024-04-23,VIP
+CUST0238,Nancy,Garcia,nancy.garcia238@email.com,Philadelphia,PA,2022-12-25,Regular
+CUST0239,Karen,Gonzalez,karen.gonzalez239@email.com,Boston,MA,2023-05-09,Premium
+CUST0240,Charles,Jones,charles.jones240@email.com,San Diego,CA,2024-08-02,VIP
+CUST0241,William,Anderson,william.anderson241@email.com,Dallas,TX,2022-01-20,Premium
+CUST0242,Barbara,Thompson,barbara.thompson242@email.com,Seattle,WA,2022-11-20,Regular
+CUST0243,Joseph,Lopez,joseph.lopez243@email.com,Denver,CO,2023-09-05,VIP
+CUST0244,Susan,Rodriguez,susan.rodriguez244@email.com,Charlotte,NC,2023-09-11,Regular
+CUST0245,Richard,Thomas,richard.thomas245@email.com,Houston,TX,2023-05-01,Premium
+CUST0246,Charles,Lopez,charles.lopez246@email.com,Denver,CO,2023-08-29,VIP
+CUST0247,Barbara,Smith,barbara.smith247@email.com,Miami,FL,2024-03-21,Premium
+CUST0248,James,Jackson,james.jackson248@email.com,Miami,FL,2022-04-11,VIP
+CUST0249,Lisa,Thomas,lisa.thomas249@email.com,San Jose,CA,2023-04-17,VIP
+CUST0250,Elizabeth,Davis,elizabeth.davis250@email.com,Portland,OR,2023-01-25,VIP
+CUST0251,William,Thompson,william.thompson251@email.com,Detroit,MI,2022-10-08,VIP
+CUST0252,Patricia,Lee,patricia.lee252@email.com,Portland,OR,2022-03-22,Premium
+CUST0253,Joseph,Johnson,joseph.johnson253@email.com,Denver,CO,2024-01-18,VIP
+CUST0254,Robert,Williams,robert.williams254@email.com,San Jose,CA,2023-11-01,VIP
+CUST0255,Susan,Garcia,susan.garcia255@email.com,San Antonio,TX,2022-09-28,VIP
+CUST0256,Elizabeth,Taylor,elizabeth.taylor256@email.com,Indianapolis,IN,2023-07-13,Regular
+CUST0257,William,Thomas,william.thomas257@email.com,San Jose,CA,2023-11-25,Regular
+CUST0258,Joseph,Williams,joseph.williams258@email.com,Phoenix,AZ,2023-04-08,VIP
+CUST0259,Lisa,Thompson,lisa.thompson259@email.com,Fort Worth,TX,2024-01-20,Regular
+CUST0260,Richard,Smith,richard.smith260@email.com,Dallas,TX,2022-09-11,Premium
+CUST0261,Elizabeth,Thompson,elizabeth.thompson261@email.com,Detroit,MI,2023-06-21,VIP
+CUST0262,Richard,Lee,richard.lee262@email.com,Jacksonville,FL,2022-08-10,VIP
+CUST0263,Linda,Thomas,linda.thomas263@email.com,New York,NY,2023-11-03,VIP
+CUST0264,Linda,Lee,linda.lee264@email.com,Chicago,IL,2024-08-08,VIP
+CUST0265,Barbara,Lee,barbara.lee265@email.com,Columbus,OH,2022-08-27,Regular
+CUST0266,Mary,Johnson,mary.johnson266@email.com,San Jose,CA,2024-10-05,Regular
+CUST0267,Patricia,Davis,patricia.davis267@email.com,Seattle,WA,2022-10-05,Premium
+CUST0268,Joseph,Lopez,joseph.lopez268@email.com,Miami,FL,2024-05-08,VIP
+CUST0269,Lisa,Jones,lisa.jones269@email.com,Columbus,OH,2022-07-22,Premium
+CUST0270,Karen,Wilson,karen.wilson270@email.com,Dallas,TX,2022-03-09,VIP
+CUST0271,Elizabeth,Miller,elizabeth.miller271@email.com,Charlotte,NC,2024-06-29,Regular
+CUST0272,Elizabeth,Brown,elizabeth.brown272@email.com,Miami,FL,2024-01-23,VIP
+CUST0273,Christopher,Lopez,christopher.lopez273@email.com,Los Angeles,CA,2024-03-26,Premium
+CUST0274,Michael,Brown,michael.brown274@email.com,Charlotte,NC,2022-07-07,VIP
+CUST0275,Michael,Lee,michael.lee275@email.com,Portland,OR,2022-02-13,Regular
+CUST0276,David,Davis,david.davis276@email.com,Phoenix,AZ,2023-02-25,Regular
+CUST0277,Sarah,Miller,sarah.miller277@email.com,Denver,CO,2023-03-19,Regular
+CUST0278,David,Jones,david.jones278@email.com,Boston,MA,2022-01-06,Premium
+CUST0279,Robert,Jones,robert.jones279@email.com,Seattle,WA,2023-05-29,Regular
+CUST0280,Patricia,Thompson,patricia.thompson280@email.com,New York,NY,2022-09-27,Regular
+CUST0281,Elizabeth,Davis,elizabeth.davis281@email.com,Denver,CO,2023-10-26,Regular
+CUST0282,Jennifer,Rodriguez,jennifer.rodriguez282@email.com,Los Angeles,CA,2022-09-17,VIP
+CUST0283,Susan,Taylor,susan.taylor283@email.com,Houston,TX,2022-05-11,Premium
+CUST0284,Joseph,Lopez,joseph.lopez284@email.com,Indianapolis,IN,2022-08-12,Premium
+CUST0285,Thomas,Davis,thomas.davis285@email.com,Boston,MA,2022-03-30,VIP
+CUST0286,Nancy,Taylor,nancy.taylor286@email.com,San Jose,CA,2024-07-27,VIP
+CUST0287,James,Johnson,james.johnson287@email.com,San Francisco,CA,2024-04-02,Premium
+CUST0288,Nancy,Brown,nancy.brown288@email.com,San Francisco,CA,2024-06-27,Regular
+CUST0289,John,Hernandez,john.hernandez289@email.com,Boston,MA,2022-10-31,Regular
+CUST0290,Robert,Rodriguez,robert.rodriguez290@email.com,Boston,MA,2023-10-28,Premium
+CUST0291,Karen,Taylor,karen.taylor291@email.com,San Jose,CA,2024-07-18,VIP
+CUST0292,Karen,Wilson,karen.wilson292@email.com,Houston,TX,2022-08-23,VIP
+CUST0293,Christopher,Moore,christopher.moore293@email.com,Detroit,MI,2023-03-17,Premium
+CUST0294,Joseph,Davis,joseph.davis294@email.com,Columbus,OH,2023-11-26,Premium
+CUST0295,Richard,Wilson,richard.wilson295@email.com,Detroit,MI,2022-07-14,Premium
+CUST0296,Susan,Hernandez,susan.hernandez296@email.com,Miami,FL,2023-06-07,Premium
+CUST0297,Robert,Thompson,robert.thompson297@email.com,San Francisco,CA,2022-05-18,Regular
+CUST0298,John,Williams,john.williams298@email.com,Columbus,OH,2022-07-17,VIP
+CUST0299,Lisa,Lopez,lisa.lopez299@email.com,Phoenix,AZ,2022-05-03,VIP
+CUST0300,Sarah,Moore,sarah.moore300@email.com,Austin,TX,2022-09-08,Premium
+CUST0301,Elizabeth,Thompson,elizabeth.thompson301@email.com,Columbus,OH,2022-04-16,Premium
+CUST0302,Karen,Martinez,karen.martinez302@email.com,Jacksonville,FL,2022-08-01,VIP
+CUST0303,Thomas,Miller,thomas.miller303@email.com,Phoenix,AZ,2024-09-14,Regular
+CUST0304,Patricia,Lopez,patricia.lopez304@email.com,Seattle,WA,2024-01-23,Regular
+CUST0305,William,Jackson,william.jackson305@email.com,San Diego,CA,2024-05-28,VIP
+CUST0306,Karen,Martin,karen.martin306@email.com,Miami,FL,2022-02-23,VIP
+CUST0307,Nancy,Rodriguez,nancy.rodriguez307@email.com,New York,NY,2023-01-05,Premium
+CUST0308,Daniel,Martinez,daniel.martinez308@email.com,Austin,TX,2023-12-20,Regular
+CUST0309,Jennifer,Jones,jennifer.jones309@email.com,Denver,CO,2024-03-31,Regular
+CUST0310,Robert,Lee,robert.lee310@email.com,New York,NY,2022-07-07,VIP
+CUST0311,Thomas,Miller,thomas.miller311@email.com,Fort Worth,TX,2024-05-09,Premium
+CUST0312,David,Garcia,david.garcia312@email.com,Jacksonville,FL,2023-10-01,VIP
+CUST0313,David,Jackson,david.jackson313@email.com,Boston,MA,2022-06-23,Regular
+CUST0314,Robert,Garcia,robert.garcia314@email.com,Boston,MA,2022-04-12,VIP
+CUST0315,John,Rodriguez,john.rodriguez315@email.com,Charlotte,NC,2024-05-18,Premium
+CUST0316,Karen,Anderson,karen.anderson316@email.com,Columbus,OH,2023-07-14,Regular
+CUST0317,Thomas,Brown,thomas.brown317@email.com,Jacksonville,FL,2024-05-30,Regular
+CUST0318,Barbara,Thompson,barbara.thompson318@email.com,Miami,FL,2024-09-23,VIP
+CUST0319,Nancy,Martinez,nancy.martinez319@email.com,Los Angeles,CA,2023-03-28,Premium
+CUST0320,Karen,Johnson,karen.johnson320@email.com,New York,NY,2023-02-23,Premium
+CUST0321,Michael,Jones,michael.jones321@email.com,Dallas,TX,2023-08-16,Premium
+CUST0322,Patricia,Smith,patricia.smith322@email.com,San Francisco,CA,2024-05-31,Regular
+CUST0323,Robert,Gonzalez,robert.gonzalez323@email.com,Seattle,WA,2023-04-17,VIP
+CUST0324,Sarah,Thompson,sarah.thompson324@email.com,Jacksonville,FL,2022-05-28,Premium
+CUST0325,Lisa,Johnson,lisa.johnson325@email.com,Columbus,OH,2022-02-08,Premium
+CUST0326,John,Hernandez,john.hernandez326@email.com,Denver,CO,2024-05-29,VIP
+CUST0327,Richard,Lee,richard.lee327@email.com,Columbus,OH,2023-08-16,Regular
+CUST0328,Richard,Smith,richard.smith328@email.com,Austin,TX,2022-12-18,VIP
+CUST0329,Joseph,Lopez,joseph.lopez329@email.com,Chicago,IL,2024-06-13,Regular
+CUST0330,Linda,Wilson,linda.wilson330@email.com,Denver,CO,2024-03-31,VIP
+CUST0331,John,Gonzalez,john.gonzalez331@email.com,San Jose,CA,2023-11-27,Regular
+CUST0332,David,Garcia,david.garcia332@email.com,Chicago,IL,2024-11-11,VIP
+CUST0333,Patricia,Taylor,patricia.taylor333@email.com,Indianapolis,IN,2023-02-02,Premium
+CUST0334,Elizabeth,Lee,elizabeth.lee334@email.com,Phoenix,AZ,2023-04-29,Regular
+CUST0335,Robert,Rodriguez,robert.rodriguez335@email.com,San Antonio,TX,2022-12-22,VIP
+CUST0336,Robert,Lee,robert.lee336@email.com,Chicago,IL,2022-12-29,VIP
+CUST0337,Jessica,Anderson,jessica.anderson337@email.com,Denver,CO,2024-07-08,VIP
+CUST0338,Charles,Lee,charles.lee338@email.com,Portland,OR,2023-10-24,VIP
+CUST0339,David,Jones,david.jones339@email.com,Charlotte,NC,2022-05-20,Premium
+CUST0340,Joseph,Lee,joseph.lee340@email.com,San Jose,CA,2023-07-17,VIP
+CUST0341,Mary,Lopez,mary.lopez341@email.com,Indianapolis,IN,2022-06-01,Premium
+CUST0342,Joseph,Anderson,joseph.anderson342@email.com,Los Angeles,CA,2022-04-27,Premium
+CUST0343,Barbara,Williams,barbara.williams343@email.com,Portland,OR,2022-07-04,VIP
+CUST0344,Karen,Taylor,karen.taylor344@email.com,Fort Worth,TX,2024-08-05,VIP
+CUST0345,Sarah,Johnson,sarah.johnson345@email.com,Charlotte,NC,2023-01-21,Premium
+CUST0346,Karen,Thomas,karen.thomas346@email.com,Indianapolis,IN,2022-11-05,Regular
+CUST0347,Joseph,Brown,joseph.brown347@email.com,Austin,TX,2022-06-22,VIP
+CUST0348,Christopher,Garcia,christopher.garcia348@email.com,Los Angeles,CA,2023-05-23,VIP
+CUST0349,Joseph,Anderson,joseph.anderson349@email.com,Indianapolis,IN,2024-12-06,VIP
+CUST0350,Jennifer,Lopez,jennifer.lopez350@email.com,Jacksonville,FL,2023-08-03,Premium
+CUST0351,Susan,Hernandez,susan.hernandez351@email.com,Miami,FL,2022-04-18,VIP
+CUST0352,Christopher,Hernandez,christopher.hernandez352@email.com,Chicago,IL,2023-11-07,Regular
+CUST0353,Sarah,Thompson,sarah.thompson353@email.com,Fort Worth,TX,2023-08-05,Premium
+CUST0354,Lisa,Thompson,lisa.thompson354@email.com,Boston,MA,2022-11-04,Premium
+CUST0355,John,Jackson,john.jackson355@email.com,Miami,FL,2022-10-17,Premium
+CUST0356,Barbara,Lee,barbara.lee356@email.com,Atlanta,GA,2024-03-13,Regular
+CUST0357,Karen,Williams,karen.williams357@email.com,San Jose,CA,2024-02-11,VIP
+CUST0358,David,Jones,david.jones358@email.com,Miami,FL,2024-12-14,Regular
+CUST0359,Christopher,Thompson,christopher.thompson359@email.com,Columbus,OH,2024-11-07,Premium
+CUST0360,James,Lopez,james.lopez360@email.com,San Jose,CA,2023-01-05,Regular
+CUST0361,David,Thomas,david.thomas361@email.com,San Antonio,TX,2023-04-09,Regular
+CUST0362,Robert,Williams,robert.williams362@email.com,San Jose,CA,2022-07-27,VIP
+CUST0363,Sarah,Taylor,sarah.taylor363@email.com,Los Angeles,CA,2023-11-21,VIP
+CUST0364,Robert,Martin,robert.martin364@email.com,Fort Worth,TX,2022-11-12,Regular
+CUST0365,Jennifer,Martin,jennifer.martin365@email.com,Philadelphia,PA,2024-06-15,Regular
+CUST0366,Susan,Lopez,susan.lopez366@email.com,Miami,FL,2023-05-02,Premium
+CUST0367,Karen,Martinez,karen.martinez367@email.com,Detroit,MI,2024-07-08,Regular
+CUST0368,Sarah,Davis,sarah.davis368@email.com,San Jose,CA,2024-08-18,Regular
+CUST0369,Elizabeth,Thompson,elizabeth.thompson369@email.com,Denver,CO,2024-06-21,Premium
+CUST0370,Barbara,Gonzalez,barbara.gonzalez370@email.com,Indianapolis,IN,2024-12-16,Premium
+CUST0371,Jennifer,Miller,jennifer.miller371@email.com,Boston,MA,2022-10-11,Premium
+CUST0372,Mary,Lee,mary.lee372@email.com,San Francisco,CA,2024-01-31,VIP
+CUST0373,Patricia,Taylor,patricia.taylor373@email.com,Houston,TX,2023-08-07,Regular
+CUST0374,Jennifer,Rodriguez,jennifer.rodriguez374@email.com,Charlotte,NC,2024-11-17,Regular
+CUST0375,Susan,Williams,susan.williams375@email.com,San Diego,CA,2024-07-12,Premium
+CUST0376,James,Wilson,james.wilson376@email.com,Los Angeles,CA,2024-03-22,VIP
+CUST0377,Elizabeth,Davis,elizabeth.davis377@email.com,Fort Worth,TX,2022-06-17,Premium
+CUST0378,Linda,Smith,linda.smith378@email.com,Austin,TX,2022-07-22,VIP
+CUST0379,Christopher,Hernandez,christopher.hernandez379@email.com,Phoenix,AZ,2022-10-09,Regular
+CUST0380,Barbara,Thomas,barbara.thomas380@email.com,Atlanta,GA,2022-10-12,VIP
+CUST0381,Jessica,Anderson,jessica.anderson381@email.com,Boston,MA,2022-01-11,Regular
+CUST0382,James,Rodriguez,james.rodriguez382@email.com,San Antonio,TX,2022-11-03,VIP
+CUST0383,Lisa,Martin,lisa.martin383@email.com,Indianapolis,IN,2024-05-16,Regular
+CUST0384,Barbara,Davis,barbara.davis384@email.com,San Jose,CA,2022-09-07,Regular
+CUST0385,Linda,Wilson,linda.wilson385@email.com,Portland,OR,2024-07-25,Regular
+CUST0386,Patricia,Thomas,patricia.thomas386@email.com,Boston,MA,2022-02-03,VIP
+CUST0387,Thomas,Jackson,thomas.jackson387@email.com,San Diego,CA,2022-10-22,Premium
+CUST0388,Susan,Smith,susan.smith388@email.com,Boston,MA,2023-12-24,Regular
+CUST0389,Charles,Wilson,charles.wilson389@email.com,Philadelphia,PA,2022-06-25,VIP
+CUST0390,Elizabeth,Williams,elizabeth.williams390@email.com,Indianapolis,IN,2024-11-05,VIP
+CUST0391,Sarah,Smith,sarah.smith391@email.com,Fort Worth,TX,2024-08-20,Regular
+CUST0392,Christopher,Gonzalez,christopher.gonzalez392@email.com,Jacksonville,FL,2023-06-04,VIP
+CUST0393,James,Lopez,james.lopez393@email.com,Chicago,IL,2023-12-08,Regular
+CUST0394,Lisa,Thompson,lisa.thompson394@email.com,Portland,OR,2022-08-01,VIP
+CUST0395,Lisa,Hernandez,lisa.hernandez395@email.com,Phoenix,AZ,2022-04-01,Premium
+CUST0396,Sarah,Hernandez,sarah.hernandez396@email.com,Portland,OR,2022-12-25,VIP
+CUST0397,Joseph,Thomas,joseph.thomas397@email.com,Portland,OR,2023-01-09,Regular
+CUST0398,John,Anderson,john.anderson398@email.com,Los Angeles,CA,2023-08-24,Regular
+CUST0399,Mary,Miller,mary.miller399@email.com,Los Angeles,CA,2023-10-09,Premium
+CUST0400,Thomas,Gonzalez,thomas.gonzalez400@email.com,Seattle,WA,2024-08-27,Premium
+CUST0401,Mary,Lee,mary.lee401@email.com,San Antonio,TX,2023-08-09,Premium
+CUST0402,Mary,Lee,mary.lee402@email.com,Austin,TX,2023-07-14,Regular
+CUST0403,Elizabeth,Wilson,elizabeth.wilson403@email.com,Fort Worth,TX,2024-06-19,Premium
+CUST0404,David,Garcia,david.garcia404@email.com,San Francisco,CA,2024-10-15,Premium
+CUST0405,Thomas,Rodriguez,thomas.rodriguez405@email.com,Chicago,IL,2024-05-19,Regular
+CUST0406,Susan,Martin,susan.martin406@email.com,Philadelphia,PA,2023-08-25,Premium
+CUST0407,Patricia,Williams,patricia.williams407@email.com,Austin,TX,2023-08-29,Premium
+CUST0408,Joseph,Martin,joseph.martin408@email.com,Atlanta,GA,2024-05-22,Regular
+CUST0409,Daniel,Anderson,daniel.anderson409@email.com,Jacksonville,FL,2024-07-04,Regular
+CUST0410,Lisa,Lopez,lisa.lopez410@email.com,Boston,MA,2024-06-09,Premium
+CUST0411,Christopher,Johnson,christopher.johnson411@email.com,Chicago,IL,2024-04-11,Premium
+CUST0412,Thomas,Thompson,thomas.thompson412@email.com,Philadelphia,PA,2022-03-05,Regular
+CUST0413,Karen,Thompson,karen.thompson413@email.com,Charlotte,NC,2022-03-13,Regular
+CUST0414,John,Davis,john.davis414@email.com,Portland,OR,2024-01-21,Premium
+CUST0415,Richard,Jackson,richard.jackson415@email.com,Los Angeles,CA,2022-11-11,VIP
+CUST0416,Joseph,Lopez,joseph.lopez416@email.com,Jacksonville,FL,2024-06-28,Regular
+CUST0417,Charles,Jones,charles.jones417@email.com,Indianapolis,IN,2024-01-22,Premium
+CUST0418,David,Lee,david.lee418@email.com,Dallas,TX,2023-05-27,Regular
+CUST0419,James,Garcia,james.garcia419@email.com,San Francisco,CA,2024-11-26,Premium
+CUST0420,Sarah,Brown,sarah.brown420@email.com,Dallas,TX,2023-06-18,VIP
+CUST0421,Joseph,Miller,joseph.miller421@email.com,Boston,MA,2023-08-08,VIP
+CUST0422,Jessica,Miller,jessica.miller422@email.com,Houston,TX,2022-10-05,Regular
+CUST0423,Joseph,Garcia,joseph.garcia423@email.com,Atlanta,GA,2024-06-30,Regular
+CUST0424,Nancy,Hernandez,nancy.hernandez424@email.com,Miami,FL,2023-12-13,VIP
+CUST0425,John,Moore,john.moore425@email.com,Seattle,WA,2023-08-18,Premium
+CUST0426,Jennifer,Lee,jennifer.lee426@email.com,Philadelphia,PA,2024-01-11,VIP
+CUST0427,Linda,Brown,linda.brown427@email.com,San Antonio,TX,2022-10-12,Regular
+CUST0428,Jessica,Smith,jessica.smith428@email.com,Jacksonville,FL,2024-01-26,Premium
+CUST0429,Sarah,Jones,sarah.jones429@email.com,Boston,MA,2022-06-26,Regular
+CUST0430,Barbara,Gonzalez,barbara.gonzalez430@email.com,Atlanta,GA,2024-09-07,VIP
+CUST0431,Susan,Wilson,susan.wilson431@email.com,Denver,CO,2022-06-01,Regular
+CUST0432,David,Lee,david.lee432@email.com,Chicago,IL,2024-07-10,Premium
+CUST0433,Nancy,Taylor,nancy.taylor433@email.com,Jacksonville,FL,2022-09-20,VIP
+CUST0434,Christopher,Jackson,christopher.jackson434@email.com,Philadelphia,PA,2022-09-22,Premium
+CUST0435,Thomas,Johnson,thomas.johnson435@email.com,Houston,TX,2024-11-27,Regular
+CUST0436,Barbara,Garcia,barbara.garcia436@email.com,Philadelphia,PA,2023-10-23,VIP
+CUST0437,Linda,Lopez,linda.lopez437@email.com,Indianapolis,IN,2023-08-05,Regular
+CUST0438,William,Miller,william.miller438@email.com,Portland,OR,2023-07-17,Regular
+CUST0439,Christopher,Martinez,christopher.martinez439@email.com,Boston,MA,2024-12-28,Regular
+CUST0440,Thomas,Lee,thomas.lee440@email.com,Philadelphia,PA,2022-11-12,Regular
+CUST0441,Nancy,Martin,nancy.martin441@email.com,Detroit,MI,2023-11-23,VIP
+CUST0442,Mary,Smith,mary.smith442@email.com,Chicago,IL,2022-04-04,VIP
+CUST0443,Charles,Rodriguez,charles.rodriguez443@email.com,Portland,OR,2023-03-08,VIP
+CUST0444,Susan,Martin,susan.martin444@email.com,Portland,OR,2022-03-04,Premium
+CUST0445,Christopher,Moore,christopher.moore445@email.com,San Jose,CA,2023-09-11,Premium
+CUST0446,Linda,Thompson,linda.thompson446@email.com,Fort Worth,TX,2023-09-02,Premium
+CUST0447,John,Johnson,john.johnson447@email.com,Philadelphia,PA,2024-06-19,Premium
+CUST0448,Jessica,Anderson,jessica.anderson448@email.com,San Antonio,TX,2023-11-28,VIP
+CUST0449,Robert,Hernandez,robert.hernandez449@email.com,Atlanta,GA,2023-10-16,VIP
+CUST0450,Elizabeth,Gonzalez,elizabeth.gonzalez450@email.com,Phoenix,AZ,2024-01-29,VIP
+CUST0451,Sarah,Brown,sarah.brown451@email.com,Austin,TX,2023-05-11,Premium
+CUST0452,Patricia,Rodriguez,patricia.rodriguez452@email.com,Charlotte,NC,2023-05-23,Regular
+CUST0453,Patricia,Johnson,patricia.johnson453@email.com,San Jose,CA,2024-02-26,VIP
+CUST0454,Susan,Davis,susan.davis454@email.com,Philadelphia,PA,2023-11-02,VIP
+CUST0455,Lisa,Hernandez,lisa.hernandez455@email.com,San Antonio,TX,2022-11-23,Premium
+CUST0456,Thomas,Anderson,thomas.anderson456@email.com,San Francisco,CA,2023-09-24,Premium
+CUST0457,James,Williams,james.williams457@email.com,Fort Worth,TX,2024-11-01,Premium
+CUST0458,Linda,Miller,linda.miller458@email.com,Denver,CO,2023-12-24,Regular
+CUST0459,Mary,Martinez,mary.martinez459@email.com,San Francisco,CA,2024-08-21,Premium
+CUST0460,Sarah,Smith,sarah.smith460@email.com,Houston,TX,2024-06-01,Regular
+CUST0461,William,Lopez,william.lopez461@email.com,Fort Worth,TX,2024-01-20,Regular
+CUST0462,Richard,Johnson,richard.johnson462@email.com,Denver,CO,2023-02-03,Premium
+CUST0463,Sarah,Martinez,sarah.martinez463@email.com,Chicago,IL,2024-03-02,VIP
+CUST0464,Joseph,Moore,joseph.moore464@email.com,Dallas,TX,2022-09-01,Regular
+CUST0465,Patricia,Gonzalez,patricia.gonzalez465@email.com,Jacksonville,FL,2023-11-26,VIP
+CUST0466,Elizabeth,Jones,elizabeth.jones466@email.com,San Antonio,TX,2024-11-08,Premium
+CUST0467,Thomas,Johnson,thomas.johnson467@email.com,Los Angeles,CA,2022-03-21,Regular
+CUST0468,Daniel,Hernandez,daniel.hernandez468@email.com,San Francisco,CA,2024-11-29,Premium
+CUST0469,Robert,Martin,robert.martin469@email.com,Indianapolis,IN,2022-10-14,Premium
+CUST0470,Karen,Hernandez,karen.hernandez470@email.com,Philadelphia,PA,2024-03-15,VIP
+CUST0471,Lisa,Martinez,lisa.martinez471@email.com,Denver,CO,2023-11-20,VIP
+CUST0472,Thomas,Moore,thomas.moore472@email.com,San Francisco,CA,2023-09-06,Premium
+CUST0473,James,Lopez,james.lopez473@email.com,Austin,TX,2022-08-13,Premium
+CUST0474,Charles,Martinez,charles.martinez474@email.com,Detroit,MI,2022-02-24,VIP
+CUST0475,Jessica,Rodriguez,jessica.rodriguez475@email.com,Portland,OR,2023-04-12,VIP
+CUST0476,Mary,Jackson,mary.jackson476@email.com,San Francisco,CA,2022-12-16,VIP
+CUST0477,Christopher,Martin,christopher.martin477@email.com,Fort Worth,TX,2022-10-30,VIP
+CUST0478,Linda,Johnson,linda.johnson478@email.com,Denver,CO,2022-08-14,Regular
+CUST0479,James,Anderson,james.anderson479@email.com,Austin,TX,2024-05-07,Regular
+CUST0480,Susan,Miller,susan.miller480@email.com,Columbus,OH,2024-10-24,VIP
+CUST0481,Jessica,Johnson,jessica.johnson481@email.com,Atlanta,GA,2022-10-10,VIP
+CUST0482,Michael,Moore,michael.moore482@email.com,Austin,TX,2024-09-06,VIP
+CUST0483,Richard,Hernandez,richard.hernandez483@email.com,Philadelphia,PA,2024-07-30,VIP
+CUST0484,David,Moore,david.moore484@email.com,Jacksonville,FL,2023-06-26,VIP
+CUST0485,Jessica,Miller,jessica.miller485@email.com,San Diego,CA,2023-07-26,VIP
+CUST0486,Barbara,Davis,barbara.davis486@email.com,San Jose,CA,2023-08-15,VIP
+CUST0487,Michael,Thomas,michael.thomas487@email.com,Austin,TX,2024-09-09,Premium
+CUST0488,Sarah,Rodriguez,sarah.rodriguez488@email.com,San Jose,CA,2022-09-07,VIP
+CUST0489,Nancy,Moore,nancy.moore489@email.com,Fort Worth,TX,2024-03-19,Premium
+CUST0490,Robert,Martinez,robert.martinez490@email.com,Los Angeles,CA,2023-08-13,VIP
+CUST0491,John,Lopez,john.lopez491@email.com,Charlotte,NC,2023-06-10,VIP
+CUST0492,Jessica,Miller,jessica.miller492@email.com,San Antonio,TX,2023-07-10,VIP
+CUST0493,Daniel,Rodriguez,daniel.rodriguez493@email.com,Phoenix,AZ,2022-08-12,VIP
+CUST0494,Lisa,Jackson,lisa.jackson494@email.com,San Diego,CA,2023-05-12,Regular
+CUST0495,Nancy,Taylor,nancy.taylor495@email.com,San Diego,CA,2023-04-22,Regular
+CUST0496,Patricia,Wilson,patricia.wilson496@email.com,Austin,TX,2024-08-25,Regular
+CUST0497,Nancy,Jones,nancy.jones497@email.com,New York,NY,2022-11-20,Premium
+CUST0498,Christopher,Thomas,christopher.thomas498@email.com,San Francisco,CA,2023-02-13,Premium
+CUST0499,David,Martinez,david.martinez499@email.com,Portland,OR,2022-05-02,Regular
+CUST0500,Christopher,Jackson,christopher.jackson500@email.com,San Diego,CA,2024-12-31,VIP
