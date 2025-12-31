@@ -1,0 +1,21 @@
+ecommerce-powerbi-dashboard/
+│
+├── data/
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── orders.csv
+│   └── order_details.csv
+│
+├── scripts/
+│   └── generate_ecommerce_data.py
+│
+├── powerbi/
+│   └── TechStyle_Store_Dashboard.pbix
+│
+├── images/
+│   ├── dashboard_screenshot.png
+│   ├── data_model.png
+│   └── kpi_cards.png
+│
+├── README.md
+└── LICENSE
